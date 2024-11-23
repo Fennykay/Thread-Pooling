@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\ThreadPool.dir\\ThreadPool.cpp.obj",
+            "outputs": [
+                "C:\\Users\\fanch\\CLionProjects\\ThreadPool\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\ThreadPool.dir\\ThreadPool.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

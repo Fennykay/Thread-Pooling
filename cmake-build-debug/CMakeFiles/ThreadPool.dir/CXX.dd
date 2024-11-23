@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\ThreadPool.dir\main.cpp.obj: dyndep
+
+build CMakeFiles\ThreadPool.dir\ThreadPool.cpp.obj: dyndep
+
